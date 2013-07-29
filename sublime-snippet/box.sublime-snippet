@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui-box">
+    <div class="ui-box-head ui-box-head-border">
+        <h3 class="ui-box-head-title">
+            ${1}
+        </h3>
+        <a class="ui-box-head-sidenote" href="">
+            More
+        </a>
+    </div>
+    <div class="ui-box-container ui-box-container-padding">
+        ${2}
+    </div>
+</div>
+]]></content>
+    <tabTrigger>chopper-ui-box</tabTrigger>
+    <description>chopper html ui-box</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>
