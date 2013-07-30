@@ -39,11 +39,14 @@
 .ui-box-container{
     background-color: #fff;
 }
+.ui-box-container-transparent{
+    background-color: transparent;
+}
 .ui-box-container-padding{
     padding: 18px 20px;
 }
 
-/*! block chopper/box/1.0.0/colorful-debug.css */
+/**! block ui-box-colorful **/
 .ui-box-colorful{
     border: 1px solid #0E76BD;
     -webkit-border-radius: 3px 3px 3px #A3A7AA;
@@ -71,4 +74,4 @@
 .ui-box-colorful .ui-box-container-padding{
     padding: 10px;
 }
-/*! endblock chopper/box/1.0.0/colorful-debug.css */
+/**! endblock ui-box-colorful **/

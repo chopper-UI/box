@@ -38,8 +38,39 @@
 .ui-box-container{
     background-color: #fff;
 }
+.ui-box-container-transparent{
+    background-color: transparent;
+}
 .ui-box-container-padding{
     padding: 18px 20px;
 }
 
-@import url("./colorful.css");
+/**! block ui-box-colorful **/
+.ui-box-colorful{
+    border: 1px solid #0E76BD;
+    -webkit-border-radius: 3px 3px 3px #A3A7AA;
+    -khtml-border-radius: 3px 3px 3px #A3A7AA;
+    -moz-border-radius: 3px 3px 3px #A3A7AA;
+    box-shadow: 3px 3px 3px #A3A7AA;
+}
+.ui-box-colorful .ui-box-head{
+    border-bottom: 0 none;
+ } 
+.ui-box-colorful .ui-box-head-border{
+    background: none;
+    box-shadow: none;
+    padding: 10px 17px;
+    background-color: #0E76BC;
+    color: #fff;
+ }   
+.ui-box-colorful .ui-box-head-title{
+    font-size: 18px;
+    font-weight:  bold;
+}
+.ui-box-colorful .ui-box-container{
+    background-color: #E8F4FF;
+}
+.ui-box-colorful .ui-box-container-padding{
+    padding: 10px;
+}
+/**! endblock ui-box-colorful **/
