@@ -47,7 +47,6 @@
 .ui-box-colorful{
     border: 1px solid #0E76BD;
     -webkit-border-radius: 3px 3px 3px #A3A7AA;
-    -khtml-border-radius: 3px 3px 3px #A3A7AA;
     -moz-border-radius: 3px 3px 3px #A3A7AA;
     box-shadow: 3px 3px 3px #A3A7AA;
 }
