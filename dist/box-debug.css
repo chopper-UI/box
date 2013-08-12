@@ -1,7 +1,6 @@
 /*! define chopper/box/1.0.0/box-debug.css */
 .ui-box{
     -webkit-box-shadow: 0 4px 6px #b3b5b6;
-    -khtml-box-shadow: 0 4px 6px #b3b5b6;
     -moz-box-shadow: 0 4px 6px #b3b5b6;
     box-shadow: 0 4px 6px #b3b5b6;
     border: 1px solid #cfcece;
@@ -21,7 +20,6 @@
     background: -o-linear-gradient(top, #fcfcfc, #f1f1f1);
     background: linear-gradient(top, #fcfcfc, #f1f1f1);
     -webkit-box-shadow: 0 4px 6px #b3b5b6;
-    -khtml-box-shadow: 0 4px 6px #b3b5b6;
     -moz-box-shadow: 0 4px 6px #b3b5b6;
     box-shadow: 0 4px 6px #b3b5b6;
 }
