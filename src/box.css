@@ -1,7 +1,6 @@
 .ui-box{
-    -webkit-box-shadow: 0 4px 6px #b3b5b6;
-    -moz-box-shadow: 0 4px 6px #b3b5b6;
-    box-shadow: 0 4px 6px #b3b5b6;
+    -webkit-box-shadow: 0 4px 6px 0 #b3b5b6;
+    box-shadow: 0 4px 6px 0 #b3b5b6;
     border: 1px solid #cfcece;
 }
 
@@ -18,9 +17,8 @@
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcfc', endColorstr='#f1f1f1');
     background: -o-linear-gradient(top, #fcfcfc, #f1f1f1);
     background: linear-gradient(top, #fcfcfc, #f1f1f1);
-    -webkit-box-shadow: 0 4px 6px #b3b5b6;
-    -moz-box-shadow: 0 4px 6px #b3b5b6;
-    box-shadow: 0 4px 6px #b3b5b6;
+    -webkit-box-shadow: 0 4px 6px 0 #b3b5b6;
+    box-shadow: 0 4px 6px 0 #b3b5b6;
 }
 .ui-box-head-title{
     font-size: 21px;
@@ -45,15 +43,15 @@
 /**! block ui-box-colorful **/
 .ui-box-colorful{
     border: 1px solid #0E76BD;
-    -webkit-border-radius: 3px 3px 3px #A3A7AA;
-    -moz-border-radius: 3px 3px 3px #A3A7AA;
-    box-shadow: 3px 3px 3px #A3A7AA;
+    -webkit-box-shadow: 3px 3px 3px 0 #A3A7AA;
+    box-shadow: 3px 3px 3px 0 #A3A7AA;
 }
 .ui-box-colorful .ui-box-head{
     border-bottom: 0 none;
  } 
 .ui-box-colorful .ui-box-head-border{
     background: none;
+    -webkit-box-shadow: none;
     box-shadow: none;
     padding: 10px 17px;
     filter: #0E76BC;
